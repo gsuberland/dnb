@@ -12,7 +12,9 @@ assignees: gsuberland
 (YES/NO)
 
 
-**Have you [searched the issues](https://github.com/gsuberland/dnb/issues?q=label%3Asuggestion) to see if someone already suggested it?**
+**Have you searched the issues to see if someone already suggested it?**
+
+Search here: https://github.com/gsuberland/dnb/issues?q=label%3Asuggestion
 
 (YES/NO)
 
