@@ -72,4 +72,12 @@ The `dnb_all_the_time.json` file is an automated export of the playlist. It uses
 }
 ```
 
-To avoid repeating data, albums and artists for tracks are referenced by ID. But, to make things a little easier, the artists list and album name are included as a string in each track.
+To avoid deep nesting and repeating data, albums and artists for tracks are referenced by ID. For example, the `ArtistIDs` field of each track is an array of ID strings which each point to an entry in the `Artists` array.
+
+To make things a little easier, some limited data is duplicated into each track. A comma-separated artists list is included in the `ArtistsString` field of each track, and the album name is included in the `AlbumName` field of each track. This allows you to quickly access the full track name from the data without doing a lookup every time.
+
+The code to generate this dump is something I hacked together in an evening. There are lots of tools out there to back up your playlists if you want to do this kind of export yourself. I only rolled my own because I wanted to add some custom logic for heuristically detecting duplicate tracks.
+
+## License
+
+The JSON exports are released as a public domain work with no license. Enjoy.
