@@ -31,7 +31,7 @@ The `dnb_all_the_time.json` file is an automated export of the playlist. It uses
   "LastTrackAdded": "2023-08-14T13:54:31Z",
   "Tracks": [
     {
-      "Name": "Track name",
+      "Name": "Crystalize",
       "ArtistIDs": [
         "3iEPGgJzNDexM0WPqpcvMB"
       ],
