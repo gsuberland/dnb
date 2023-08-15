@@ -20,3 +20,56 @@ Sometimes I accidentally drop a track onto the wrong playlist. If you think you'
 
 Please don't report tracks just because you don't like them. They should be clearly off-genre, e.g. dubstep or metal.
 
+## JSON Export
+
+The `dnb_all_the_time.json` file is an automated export of the playlist. It uses the following schema:
+
+```json
+{
+  "Name": "D&B All The Time",
+  "Description": "...",
+  "LastTrackAdded": "2023-08-14T13:54:31Z",
+  "Tracks": [
+    {
+      "Name": "Track name",
+      "ArtistIDs": [
+        "3iEPGgJzNDexM0WPqpcvMB"
+      ],
+      "ArtistsString": "Lexurus",
+      "AlbumID": "2O4wDLrctAPJfwnn7KQcp4",
+      "AlbumName": "Crystalize",
+      "Duration": 299.252,
+      "AddedToPlaylist": "2020-02-09T23:25:04Z",
+      "ID": "087cCCXpfcn8ChAssj7aMh",
+      "URI": "spotify:track:087cCCXpfcn8ChAssj7aMh"
+    },
+    /* ... */
+  ],
+  "Artists": [
+    {
+      "Name": "Namaste",
+      "ID": "6l4aHMAID8jbextVZAo5NJ",
+      "URI": "spotify:artist:6l4aHMAID8jbextVZAo5NJ"
+    },
+    /* ... */
+  ],
+  "Albums": [
+    {
+      "Name": "EXPOSED 001",
+      "TotalTracks": 0,
+      "ReleaseDate": "2021-11-05T00:00:00",
+      "ArtistIDs": [
+        "0LyfQWJT6nXafLPZqxe9Of"
+      ],
+      "Type": "compilation",
+      "ID": "4V1RNa3zo6dVIvJvyBQI3Q",
+      "URI": "spotify:album:4V1RNa3zo6dVIvJvyBQI3Q"
+    },
+    /* ... */
+  ],
+  "ID": "2WJWZyIXd06cscBagEjK9J",
+  "URI": "spotify:playlist:2WJWZyIXd06cscBagEjK9J"
+}
+```
+
+To avoid repeating data, albums and artists for tracks are referenced by ID. But, to make things a little easier, the artists list and album name are included as a string in each track.
