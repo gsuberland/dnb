@@ -1,7 +1,7 @@
 {
   "Name": "D&B All The Time",
   "Description": "Drum and bass from all the major outlets, shoved into one giant playlist. Mostly liquid, with a little jump up and neurofunk thrown in for good measure. Visit https:&#x2F;&#x2F;github.com&#x2F;gsuberland&#x2F;dnb to send track suggestions or report accidental non-D&amp;B tracks!",
-  "LastTrackAdded": "2023-08-14T13:54:31Z",
+  "LastTrackAdded": "2023-08-20T15:01:24Z",
   "Tracks": [
     {
       "Name": "Crystalize",
@@ -42646,6 +42646,207 @@
       "AddedToPlaylist": "2023-08-14T13:54:31Z",
       "ID": "3q1wXCmNyWln6NGftyulnf",
       "URI": "spotify:track:3q1wXCmNyWln6NGftyulnf"
+    },
+    {
+      "Name": "Freedom",
+      "ArtistIDs": [
+        "38BFYN3khru2n281KjI4Nd"
+      ],
+      "ArtistsString": "Monika",
+      "AlbumID": "1g5GZwhgA8NDxsp12Y5Qrh",
+      "AlbumName": "Winter Soul 2019",
+      "Duration": 315.495,
+      "AddedToPlaylist": "2023-08-15T16:31:32Z",
+      "ID": "7qq2A0xLC3DdeFbSmrM97W",
+      "URI": "spotify:track:7qq2A0xLC3DdeFbSmrM97W"
+    },
+    {
+      "Name": "Amour",
+      "ArtistIDs": [
+        "2D3uFGkgkgx6LMjWMUTvWu"
+      ],
+      "ArtistsString": "SOLR",
+      "AlbumID": "2IrpgW8zjti9OxnSEL4ujc",
+      "AlbumName": "Amour",
+      "Duration": 299.744,
+      "AddedToPlaylist": "2023-08-20T14:54:51Z",
+      "ID": "3eZ7F7NnCjSkUoYoBddPTU",
+      "URI": "spotify:track:3eZ7F7NnCjSkUoYoBddPTU"
+    },
+    {
+      "Name": "Yot Klub",
+      "ArtistIDs": [
+        "26PnCYGyS31j6bvJjaK6J9"
+      ],
+      "ArtistsString": "Dan Dakota",
+      "AlbumID": "4eY5rD8yWFXf63z14aG1xL",
+      "AlbumName": "Yot Klub",
+      "Duration": 312.5,
+      "AddedToPlaylist": "2023-08-20T14:55:09Z",
+      "ID": "3Vg8JFlX2F4vnjACLj1P3J",
+      "URI": "spotify:track:3Vg8JFlX2F4vnjACLj1P3J"
+    },
+    {
+      "Name": "Broken Minds",
+      "ArtistIDs": [
+        "2D3uFGkgkgx6LMjWMUTvWu"
+      ],
+      "ArtistsString": "SOLR",
+      "AlbumID": "2IrpgW8zjti9OxnSEL4ujc",
+      "AlbumName": "Amour",
+      "Duration": 276.065,
+      "AddedToPlaylist": "2023-08-20T14:55:16Z",
+      "ID": "3qm6WC0qSy3VNbPxnahSKi",
+      "URI": "spotify:track:3qm6WC0qSy3VNbPxnahSKi"
+    },
+    {
+      "Name": "Better Know",
+      "ArtistIDs": [
+        "2D3uFGkgkgx6LMjWMUTvWu"
+      ],
+      "ArtistsString": "SOLR",
+      "AlbumID": "2IrpgW8zjti9OxnSEL4ujc",
+      "AlbumName": "Amour",
+      "Duration": 232.153,
+      "AddedToPlaylist": "2023-08-20T14:55:21Z",
+      "ID": "0sp0eq33uXnRjsbyAzFmoj",
+      "URI": "spotify:track:0sp0eq33uXnRjsbyAzFmoj"
+    },
+    {
+      "Name": "Lost In You",
+      "ArtistIDs": [
+        "2D3uFGkgkgx6LMjWMUTvWu"
+      ],
+      "ArtistsString": "SOLR",
+      "AlbumID": "2IrpgW8zjti9OxnSEL4ujc",
+      "AlbumName": "Amour",
+      "Duration": 279.793,
+      "AddedToPlaylist": "2023-08-20T14:55:26Z",
+      "ID": "5rwCr0UVEPVLrCnefWVzVD",
+      "URI": "spotify:track:5rwCr0UVEPVLrCnefWVzVD"
+    },
+    {
+      "Name": "Treading Water",
+      "ArtistIDs": [
+        "6RQ9kYbHisp1UUbnfwHNeU",
+        "6zRFKufuh8CGgePzQeIzw8"
+      ],
+      "ArtistsString": "Feint, HYLIA",
+      "AlbumID": "2RFygYjds9n7YBekLyt53r",
+      "AlbumName": "Treading Water",
+      "Duration": 180.689,
+      "AddedToPlaylist": "2023-08-20T14:58:31Z",
+      "ID": "3obZlsgz2upBKCdOpEeFA8",
+      "URI": "spotify:track:3obZlsgz2upBKCdOpEeFA8"
+    },
+    {
+      "Name": "The Feeling - Lost Frequencies & Andromedik Deluxe Mix",
+      "ArtistIDs": [
+        "7f5Zgnp2spUuuzKplmRkt7",
+        "7miXLG9boDOGHJaEelSL7T"
+      ],
+      "ArtistsString": "Lost Frequencies, Andromedik",
+      "AlbumID": "2upRxot9PsC3mletR2gbb7",
+      "AlbumName": "The Feeling (Remix Pack)",
+      "Duration": 194.831,
+      "AddedToPlaylist": "2023-08-20T14:58:42Z",
+      "ID": "3rFHJDslBgt9rHu8p22aFN",
+      "URI": "spotify:track:3rFHJDslBgt9rHu8p22aFN"
+    },
+    {
+      "Name": "Orbital",
+      "ArtistIDs": [
+        "06EfEcjc0vdvI6VNL0soIO"
+      ],
+      "ArtistsString": "Rameses B",
+      "AlbumID": "5728j95lcWaoyXJnGVS0Ne",
+      "AlbumName": "Event Horizon",
+      "Duration": 205.517,
+      "AddedToPlaylist": "2023-08-20T14:59:26Z",
+      "ID": "7yqkSu4C583FInjBFnlc59",
+      "URI": "spotify:track:7yqkSu4C583FInjBFnlc59"
+    },
+    {
+      "Name": "Entropy",
+      "ArtistIDs": [
+        "06EfEcjc0vdvI6VNL0soIO"
+      ],
+      "ArtistsString": "Rameses B",
+      "AlbumID": "5728j95lcWaoyXJnGVS0Ne",
+      "AlbumName": "Event Horizon",
+      "Duration": 238.189,
+      "AddedToPlaylist": "2023-08-20T14:59:38Z",
+      "ID": "4JelThF7pAMdL3zhELfmZU",
+      "URI": "spotify:track:4JelThF7pAMdL3zhELfmZU"
+    },
+    {
+      "Name": "To The Stars",
+      "ArtistIDs": [
+        "06EfEcjc0vdvI6VNL0soIO",
+        "4ibZB3pfiUeItXDISCdlAw"
+      ],
+      "ArtistsString": "Rameses B, Ella Noël",
+      "AlbumID": "0dh9O3Ca41U1qoiWCuUWxD",
+      "AlbumName": "Event Horizon",
+      "Duration": 253.793,
+      "AddedToPlaylist": "2023-08-20T15:00:13Z",
+      "ID": "770HMGpcBV1PGdVhgQrdEL",
+      "URI": "spotify:track:770HMGpcBV1PGdVhgQrdEL"
+    },
+    {
+      "Name": "A.I.",
+      "ArtistIDs": [
+        "06EfEcjc0vdvI6VNL0soIO"
+      ],
+      "ArtistsString": "Rameses B",
+      "AlbumID": "0dh9O3Ca41U1qoiWCuUWxD",
+      "AlbumName": "Event Horizon",
+      "Duration": 243.103,
+      "AddedToPlaylist": "2023-08-20T15:00:23Z",
+      "ID": "7w2GWzQeR35JMjPBatlFUF",
+      "URI": "spotify:track:7w2GWzQeR35JMjPBatlFUF"
+    },
+    {
+      "Name": "Never Coming Back",
+      "ArtistIDs": [
+        "06EfEcjc0vdvI6VNL0soIO",
+        "34Ms8SDF1EGvcSULOKjgaV"
+      ],
+      "ArtistsString": "Rameses B, eerie",
+      "AlbumID": "0dh9O3Ca41U1qoiWCuUWxD",
+      "AlbumName": "Event Horizon",
+      "Duration": 274.827,
+      "AddedToPlaylist": "2023-08-20T15:00:33Z",
+      "ID": "1cRK9oPZ3rRF9xqn5VJ8C6",
+      "URI": "spotify:track:1cRK9oPZ3rRF9xqn5VJ8C6"
+    },
+    {
+      "Name": "Arrival",
+      "ArtistIDs": [
+        "06EfEcjc0vdvI6VNL0soIO"
+      ],
+      "ArtistsString": "Rameses B",
+      "AlbumID": "0dh9O3Ca41U1qoiWCuUWxD",
+      "AlbumName": "Event Horizon",
+      "Duration": 199.31,
+      "AddedToPlaylist": "2023-08-20T15:01:13Z",
+      "ID": "1gvX1ZJ6rgduUbqWBD3LHf",
+      "URI": "spotify:track:1gvX1ZJ6rgduUbqWBD3LHf"
+    },
+    {
+      "Name": "Let Me Out - BCee Remix",
+      "ArtistIDs": [
+        "6jsS2mOTAxVrlSUWiPLXpH",
+        "3wdwWQXJbqpJJbMdp7KfEJ",
+        "08lRbqt7evEbYvgUlbSgYb"
+      ],
+      "ArtistsString": "T & Sugah, BCee, Karina Ramage",
+      "AlbumID": "582ZfzeWozcipAuOkNa0eP",
+      "AlbumName": "Let Me Out (BCee Remix)",
+      "Duration": 245.616,
+      "AddedToPlaylist": "2023-08-20T15:01:24Z",
+      "ID": "3M6lcJQaCmc6Oi1czb4YIP",
+      "URI": "spotify:track:3M6lcJQaCmc6Oi1czb4YIP"
     }
   ],
   "Artists": [
@@ -45330,6 +45531,11 @@
       "URI": "spotify:artist:5UAiCq7VKP2MrMG2RAkPl8"
     },
     {
+      "Name": "Lost Frequencies",
+      "ID": "7f5Zgnp2spUuuzKplmRkt7",
+      "URI": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+    },
+    {
       "Name": "Caan",
       "ID": "3wKcD6HURpfFwqQAwCT5Fx",
       "URI": "spotify:artist:3wKcD6HURpfFwqQAwCT5Fx"
@@ -46268,6 +46474,11 @@
       "Name": "Night Scape",
       "ID": "24RqKug9SBhOUodbmrO0t3",
       "URI": "spotify:artist:24RqKug9SBhOUodbmrO0t3"
+    },
+    {
+      "Name": "eerie",
+      "ID": "34Ms8SDF1EGvcSULOKjgaV",
+      "URI": "spotify:artist:34Ms8SDF1EGvcSULOKjgaV"
     },
     {
       "Name": "Optiv",
@@ -47948,6 +48159,11 @@
       "Name": "Digital",
       "ID": "1uFpWQ0YiqqDADmf0EUtdT",
       "URI": "spotify:artist:1uFpWQ0YiqqDADmf0EUtdT"
+    },
+    {
+      "Name": "SOLR",
+      "ID": "2D3uFGkgkgx6LMjWMUTvWu",
+      "URI": "spotify:artist:2D3uFGkgkgx6LMjWMUTvWu"
     },
     {
       "Name": "Clean Bandit",
@@ -50278,6 +50494,11 @@
       "Name": "Stonx",
       "ID": "3iMUlKgmNsjCB4tRTMNSf7",
       "URI": "spotify:artist:3iMUlKgmNsjCB4tRTMNSf7"
+    },
+    {
+      "Name": "HYLIA",
+      "ID": "6zRFKufuh8CGgePzQeIzw8",
+      "URI": "spotify:artist:6zRFKufuh8CGgePzQeIzw8"
     },
     {
       "Name": "Misun",
@@ -53689,6 +53910,17 @@
       "URI": "spotify:album:1FFKq9mYzvydKVGzBww03m"
     },
     {
+      "Name": "Yot Klub",
+      "TotalTracks": 0,
+      "ReleaseDate": "2023-08-18T00:00:00",
+      "ArtistIDs": [
+        "26PnCYGyS31j6bvJjaK6J9"
+      ],
+      "Type": "single",
+      "ID": "4eY5rD8yWFXf63z14aG1xL",
+      "URI": "spotify:album:4eY5rD8yWFXf63z14aG1xL"
+    },
+    {
       "Name": "Yesterday",
       "TotalTracks": 0,
       "ReleaseDate": "2020-04-24T00:00:00",
@@ -53924,6 +54156,17 @@
       "Type": "compilation",
       "ID": "4UZcukuM4aA3oaiHqZzHmB",
       "URI": "spotify:album:4UZcukuM4aA3oaiHqZzHmB"
+    },
+    {
+      "Name": "The Feeling (Remix Pack)",
+      "TotalTracks": 0,
+      "ReleaseDate": "2023-08-11T00:00:00",
+      "ArtistIDs": [
+        "7f5Zgnp2spUuuzKplmRkt7"
+      ],
+      "Type": "single",
+      "ID": "2upRxot9PsC3mletR2gbb7",
+      "URI": "spotify:album:2upRxot9PsC3mletR2gbb7"
     },
     {
       "Name": "A Man & His Kettle",
@@ -61186,6 +61429,18 @@
       "URI": "spotify:album:5t9DVHelBXzb4PRYwwxoEE"
     },
     {
+      "Name": "Treading Water",
+      "TotalTracks": 0,
+      "ReleaseDate": "2023-08-11T00:00:00",
+      "ArtistIDs": [
+        "6RQ9kYbHisp1UUbnfwHNeU",
+        "6zRFKufuh8CGgePzQeIzw8"
+      ],
+      "Type": "single",
+      "ID": "2RFygYjds9n7YBekLyt53r",
+      "URI": "spotify:album:2RFygYjds9n7YBekLyt53r"
+    },
+    {
       "Name": "Feels The Same",
       "TotalTracks": 0,
       "ReleaseDate": "2019-08-30T00:00:00",
@@ -63529,6 +63784,17 @@
       "URI": "spotify:album:6JQgPb5GHyOdgy2vAjZNEJ"
     },
     {
+      "Name": "Event Horizon",
+      "TotalTracks": 0,
+      "ReleaseDate": "2023-07-21T00:00:00",
+      "ArtistIDs": [
+        "06EfEcjc0vdvI6VNL0soIO"
+      ],
+      "Type": "album",
+      "ID": "0dh9O3Ca41U1qoiWCuUWxD",
+      "URI": "spotify:album:0dh9O3Ca41U1qoiWCuUWxD"
+    },
+    {
       "Name": "Skin (Remixes)",
       "TotalTracks": 0,
       "ReleaseDate": "2017-04-28T00:00:00",
@@ -65865,6 +66131,19 @@
       "Type": "single",
       "ID": "2XwnrsPHJTWWYSbwqkfuaV",
       "URI": "spotify:album:2XwnrsPHJTWWYSbwqkfuaV"
+    },
+    {
+      "Name": "Let Me Out (BCee Remix)",
+      "TotalTracks": 0,
+      "ReleaseDate": "2023-08-11T00:00:00",
+      "ArtistIDs": [
+        "6jsS2mOTAxVrlSUWiPLXpH",
+        "08lRbqt7evEbYvgUlbSgYb",
+        "3wdwWQXJbqpJJbMdp7KfEJ"
+      ],
+      "Type": "single",
+      "ID": "582ZfzeWozcipAuOkNa0eP",
+      "URI": "spotify:album:582ZfzeWozcipAuOkNa0eP"
     },
     {
       "Name": "Go Back To The Jungle",
@@ -69091,6 +69370,17 @@
       "Type": "single",
       "ID": "3UC0bIxL7sDoqAOrDtDAOW",
       "URI": "spotify:album:3UC0bIxL7sDoqAOrDtDAOW"
+    },
+    {
+      "Name": "Amour",
+      "TotalTracks": 0,
+      "ReleaseDate": "2023-08-18T00:00:00",
+      "ArtistIDs": [
+        "2D3uFGkgkgx6LMjWMUTvWu"
+      ],
+      "Type": "single",
+      "ID": "2IrpgW8zjti9OxnSEL4ujc",
+      "URI": "spotify:album:2IrpgW8zjti9OxnSEL4ujc"
     },
     {
       "Name": "Melancholy City EP",
@@ -74196,6 +74486,17 @@
       "URI": "spotify:album:3X3WMWLENDb7KRtqyy9XXW"
     },
     {
+      "Name": "Winter Soul 2019",
+      "TotalTracks": 0,
+      "ReleaseDate": "2019-11-22T00:00:00",
+      "ArtistIDs": [
+        "0LyfQWJT6nXafLPZqxe9Of"
+      ],
+      "Type": "compilation",
+      "ID": "1g5GZwhgA8NDxsp12Y5Qrh",
+      "URI": "spotify:album:1g5GZwhgA8NDxsp12Y5Qrh"
+    },
+    {
       "Name": "Their Law The Singles 1990 - 2005",
       "TotalTracks": 0,
       "ReleaseDate": "2005-10-17T00:00:00",
@@ -78140,6 +78441,17 @@
       "Type": "single",
       "ID": "6IkeUuAJCMj0WgKypycEWN",
       "URI": "spotify:album:6IkeUuAJCMj0WgKypycEWN"
+    },
+    {
+      "Name": "Event Horizon",
+      "TotalTracks": 0,
+      "ReleaseDate": "2023-07-21T00:00:00",
+      "ArtistIDs": [
+        "06EfEcjc0vdvI6VNL0soIO"
+      ],
+      "Type": "album",
+      "ID": "5728j95lcWaoyXJnGVS0Ne",
+      "URI": "spotify:album:5728j95lcWaoyXJnGVS0Ne"
     },
     {
       "Name": "Spring BassJam release 2021",
