@@ -41,7 +41,8 @@ The `dnb_all_the_time.json` file is an automated export of the playlist. It uses
       "Duration": 299.252,
       "AddedToPlaylist": "2020-02-09T23:25:04Z",
       "ID": "087cCCXpfcn8ChAssj7aMh",
-      "URI": "spotify:track:087cCCXpfcn8ChAssj7aMh"
+      "URI": "spotify:track:087cCCXpfcn8ChAssj7aMh",
+	  "ISRC": "..."
     },
     /* ... */
   ],
