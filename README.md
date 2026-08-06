@@ -6,7 +6,7 @@ This repository is a place for folks to suggest tracks or notify me of errors in
 
 Despite the playlist having thousands of tracks, it isn't just thrown together out of any track I find! Quite a lot of curation is involved to hit a specific style and vibe. This is one of my daily background listening playlists, and I have pretty heavy ADHD, so I try to keep a good balance of high-energy and chill tracks without pulling too much focus.
 
-The primary genres are liquid, neuro, and jump-up. I typically avoid oldschool D&B and jungle (with a few exceptions for modern remixes) since they don't fit the overall sound I'm going for here. I'm also more selective around tracks that include a lot of MC'ing / grime vocals, since they're very lyrically dense and tend to be distracting.
+The primary genres are mainstream/club, liquid, and neuro. I typically avoid oldschool D&B and jungle (with a few exceptions for modern remixes) since they don't fit the overall sound I'm going for here. I'm also more selective around tracks that include a lot of MC'ing / grime vocals, since they're very lyrically dense and tend to be distracting.
 
 ## Request a track
 
